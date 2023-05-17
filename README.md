@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amir Pluncevic
 - 👀 I’m interested in programing.
-- 🌱 I’m currently learning about Computer Science and coding Python, css, HTML, JS, MySQL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about coding Python, css, HTML, JS, MySQL, React and others.
+- 💞️ I’m looking to collaborate on new project.
 - 📫 pluncevic001@gmail.com
 
 <!---
